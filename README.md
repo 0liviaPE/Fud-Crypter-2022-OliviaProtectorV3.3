@@ -1,9 +1,10 @@
 # Olivia-Crypter-2022 All Antiviruses Bypass
 Olivia Crypter is one of the best crypters written in 2022
 -Best-Crypter-Protector-2022 Bypass WD With Rootkit Startup Long FUD
-![Ekran Görüntüsü (457)](https://user-images.githubusercontent.com/109003034/178124686-9078a6ad-7633-48e4-9f7e-69675d7078b3.png)
+
 
 ![1](https://user-images.githubusercontent.com/108772492/177439325-68594bc2-32b4-488a-8b92-c01331fd3eda.jpg)
+![Ekran Görüntüsü (460)](https://user-images.githubusercontent.com/109003034/178190018-2c1a9c54-b6e0-49d1-97d8-d659e4acc1c6.png)
 
 # Scan Result
 ![Adsız](https://user-images.githubusercontent.com/108772492/177439459-0a626089-0f4d-4700-939a-81dabcc614a0.png)
